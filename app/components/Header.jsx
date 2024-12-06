@@ -8,7 +8,7 @@ const Header = () => {
             <header className=" border-4 border-primary5 w-fit p-2 rounded-2xl shadow-primary5/40 shadow-2xl m-auto flex justify-center font-abril mt-5 bg-white">
                 <div className="mx-auto flex h-16 max-w-screen-xl items-center gap-8 px-4 sm:px-6 lg:px-8">
                     <span className="sr-only">Home</span>
-                    <Image src='/logotest.svg' className=' flex ' width={70} height={100} alt='logo'></Image>
+                    <img src='/logoTest.svg' className=' flex ' width={70} height={100} alt='logo'></img>
 
 
                     <div className="flex flex-1 items-center justify-end md:justify-between">
