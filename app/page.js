@@ -9,7 +9,7 @@ export default function Home() {
     <div>
 
       <Header></Header>
-      <Hero></Hero>
+     
     </div>
     
   );
