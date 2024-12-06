@@ -1,7 +1,7 @@
 import localFont from "next/font/local";
 import "./globals.css";
 
-import { Abril_Fatface } from '@next/font/google';
+import { Abril_Fatface } from 'next/font/google';
 
 const abrilFatface = Abril_Fatface({
   subsets: ['latin'],
