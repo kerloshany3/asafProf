@@ -8,8 +8,14 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "#971c1c",
+        primary2:"#d62727",
+        primary3:"#ee8e1d",
+        primary4:"#ffd43e",
+        primary5:"#113441",
+      },
+      fontFamily: {
+        abril: ['"Abril Fatface"', 'cursive'], // Custom font name
       },
     },
   },
